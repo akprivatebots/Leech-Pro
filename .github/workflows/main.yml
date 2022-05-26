@@ -18,5 +18,3 @@ jobs:
           docker_heroku_process_type: worker
           stack: "container"
           region: "eu"
-        env:
-          HD_CONFIG_ENV_URL: ${{secrets.CONFIG_ENV_URL}}
