@@ -4,7 +4,7 @@ hachoir
 Pillow
 pyrogram==1.3.0
 tgcrypto
-youtube_dl
+yt_dlp
 hurry.filesize
 python-dotenv
 psutil
